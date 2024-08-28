@@ -9,3 +9,7 @@ Wallpapers that showcase [Lively Hardware API features.](https://github.com/rock
 [**Download**](https://github.com/rocksdanister/system-stats-wallpaper/releases)
 
 Require [Lively Wallpaper](https://github.com/rocksdanister/lively) v2.0.6.0 or above.
+
+## Demo Video
+
+https://github.com/awaisaligee99/github/blob/13bf80ea74de7c9e2003ec3b2cef9d14455daad2/assets/VidFile.mp4
